@@ -22,9 +22,9 @@ public class Palindromo {
         }
 
         if (palavra.equalsIgnoreCase(palavraInvertida)){
-            System.out.println(palavra + " eh palindromo");
+            System.out.println(palavra + " Essa palavra eh um palindromo");
         } else {
-            System.out.println(palavra + " nao eh palindromo");
+            System.out.println(palavra + " Essa palavra nao eh palindromo");
         }
     }
 
